@@ -1,1 +1,0 @@
-# MPI-Ring-Message-Passing
